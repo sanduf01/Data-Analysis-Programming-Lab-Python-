@@ -6,16 +6,6 @@
 
 A **Data Science Regression Project** to predict house prices in Bengaluru using machine learning. Built as part of Data Analysis Programming Lab (Python).
 
-## 📋 Table of Contents
-- [Overview](#overview)
-- [Dataset](#dataset)
-- [Features](#features)
-- [Setup](#setup)
-- [Usage](#usage)
-- [Model Performance](#model-performance)
-- [Demo](#demo)
-- [Topics Covered](#topics-covered)
-
 ## 📈 Overview
 This project demonstrates a complete **end-to-end ML pipeline** for house price prediction:
 1. **Data Cleaning**: Handle missing values, feature engineering (BHK, price/sqft)
